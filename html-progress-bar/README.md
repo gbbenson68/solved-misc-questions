@@ -8,3 +8,5 @@ Find more information on the HTML5 ```<progress>``` element [here](https://devel
 
 #### To run this demo
 This demo does not require any HTML file to run - just simply copy and paste the entire contents of the ```updateProgressBar.js``` file to your browser's console to execute.
+
+_NOTE: On Firefox browsers you will need to enter ```allow pasting``` into the console window.
